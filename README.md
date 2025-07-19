@@ -1,2 +1,2 @@
 # Asteroids
-Asteroid game boor.dev
+Asteroid game boot.dev
